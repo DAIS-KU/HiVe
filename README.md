@@ -1,6 +1,6 @@
 # HiVe: Beyond Static Prompts for Multitask Learning via Hierarchy-based Vertical Mixture-of-Experts
 
-[![EMNLP'26 Paper](https://img.shields.io/badge/EMNLP'26-Paper-orange)](https://arxiv.org/abs/2608.29790)
+[![EMNLP'26 Paper](https://img.shields.io/badge/EMNLP'26-Paper-orange)](https://arxiv.org/pdf/2608.29790)
 
 Official implementation of **HiVe**, a prompt tuning framework that models prompts at multiple levels and enables input-dependent specialization via a vertical mixture-of-experts (V-MoE) routing mechanism.
 
